@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = Stanouuu@users.noreply.github.com
+	name = stanislas barrage
